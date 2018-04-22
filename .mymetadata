@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="webprofile-ref-project"
+  id="myeclipse.1519805335147"
+  context-root="/webprofile-ref-project"
+  j2ee-spec="5.0"
+  archive="webprofile-ref-project.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

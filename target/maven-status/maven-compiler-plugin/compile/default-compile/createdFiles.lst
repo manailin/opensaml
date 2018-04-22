@@ -1,0 +1,11 @@
+no\steras\opensamlbook\idp\ArtifactResolutionServlet.class
+no\steras\opensamlbook\sp\SPCredentials.class
+no\steras\opensamlbook\idp\IDPCredentials.class
+no\steras\opensamlbook\app\ApplicationServlet.class
+no\steras\opensamlbook\sp\ConsumerServlet.class
+no\steras\opensamlbook\sp\ConsumerServlet$1.class
+no\steras\opensamlbook\OpenSAMLUtils.class
+no\steras\opensamlbook\sp\AccessFilter.class
+no\steras\opensamlbook\sp\SPConstants.class
+no\steras\opensamlbook\idp\IDPConstants.class
+no\steras\opensamlbook\idp\SingleSignOnServlet.class
